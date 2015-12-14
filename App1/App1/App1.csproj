@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{6C6BD9C7-1D6C-426F-9DEC-712DB0E54349}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>App1</RootNamespace>
+    <AssemblyName>App1</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetPlatformVersion>10.0.10240.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.10240.0</TargetPlatformMinVersion>
+    <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
+    <EnableDotNetNativeCompatibleProfile>true</EnableDotNetNativeCompatibleProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PackageCertificateKeyFile>App1_TemporaryKey.pfx</PackageCertificateKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+    <Content Include="ApplicationInsights.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Square44x44Logo.scale-400.png" />
+    <Content Include="Assets\StoreLogo.scale-100.png" />
+    <Content Include="Spirits\Bacardi Rum.jpg" />
+    <Content Include="Spirits\Bulliet Bulliet.jpg" />
+    <Content Include="Spirits\Captain Morgan Parrot Bay.jpg" />
+    <Content Include="Spirits\Captain Morgan White Rum.jpg" />
+    <Content Include="Spirits\Captain Morgan.jpg" />
+    <Content Include="Spirits\Ciroc Coconut Vodka.jpg" />
+    <Content Include="Spirits\Ciroc Red Berry Vodka.jpg" />
+    <Content Include="Spirits\Cragganmore Whiskey.jpg" />
+    <Content Include="Spirits\Gordon%27s Vodka or Dry Gin.jpg" />
+    <Content Include="Spirits\Jack Daniels.jpg" />
+    <Content Include="Spirits\Johnnie Walker Black Label Whiskey.jpg" />
+    <Content Include="Spirits\Johnnie Walker Red Label.jpg" />
+    <Content Include="Spirits\Jose Cuervo Especial Silver Tequila.jpg" />
+    <Content Include="Spirits\Jose Cuervo Gold Tequila.jpg" />
+    <Content Include="Spirits\Malibu Rum Flavored with Fruit Essence.jpg" />
+    <Content Include="Spirits\Seagram Seagram%27s, 7 Crown Whiskey.jpg" />
+    <Content Include="Spirits\Smirnoff.jpg" />
+    <Content Include="Spirits\Tanqueray Gin.jpg" />
+    <Content Include="Vis Assets\300x300.scale-400.png" />
+    <Content Include="Vis Assets\BadgeLogo.scale-400.png" />
+    <Content Include="Vis Assets\LockScreenLogo.scale-200.png" />
+    <Content Include="Vis Assets\SplashScreen.scale-200.png" />
+    <Content Include="Vis Assets\Square150x150Logo.scale-100.png" />
+    <Content Include="Vis Assets\Square150x150Logo.scale-200.png" />
+    <Content Include="Vis Assets\Square150x150Logo.scale-400.png" />
+    <Content Include="Vis Assets\Square310x310Logo.scale-100.png" />
+    <Content Include="Vis Assets\Square310x310Logo.scale-200.png" />
+    <Content Include="Vis Assets\Square310x310Logo.scale-400.png" />
+    <Content Include="Vis Assets\Square44x44Logo.scale-100.png" />
+    <Content Include="Vis Assets\Square44x44Logo.scale-200.png" />
+    <Content Include="Vis Assets\Square44x44Logo.scale-400.png" />
+    <Content Include="Vis Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Content Include="Vis Assets\Square71x71Logo.scale-400.png" />
+    <Content Include="Vis Assets\StoreLogo.png" />
+    <Content Include="Vis Assets\StoreLogo.scale-100.png" />
+    <Content Include="Vis Assets\StoreLogo.scale-400.png" />
+    <Content Include="Vis Assets\StoreLogo200x200.scale-400.png" />
+    <Content Include="Vis Assets\StoreLogo50x50.png" />
+    <Content Include="Vis Assets\StoreLogo50x50.scale-100.png" />
+    <Content Include="Vis Assets\StoreLogo50x50.scale-400.png" />
+    <Content Include="Vis Assets\Wide310x150Logo.scale-100.png" />
+    <Content Include="Vis Assets\Wide310x150Logo.scale-200.png" />
+    <Content Include="Vis Assets\Wide310x150Logo.scale-400.png" />
+    <Content Include="Visual Assets\300x300.png" />
+    <Content Include="Visual Assets\badgelogo96x96.png" />
+    <Content Include="Visual Assets\SplashScreen1240x600.png" />
+    <Content Include="Visual Assets\SplashScreen310.png" />
+    <Content Include="Visual Assets\SplashScreen620x300.png" />
+    <Content Include="Visual Assets\SplashScreenresize.png" />
+    <Content Include="Visual Assets\Storelogo.png" />
+    <Content Include="Visual Assets\StoreLogo150.png" />
+    <Content Include="Visual Assets\StoreLogo200.png" />
+    <Content Include="Visual Assets\Storelogo200x200.png" />
+    <Content Include="Visual Assets\StoreLogo284.png" />
+    <Content Include="Visual Assets\StoreLogo300.png" />
+    <Content Include="Visual Assets\Storelogo50x50.png" />
+    <Content Include="Visual Assets\StoreLogo600.png" />
+    <Content Include="Visual Assets\StoreLogoSquare1240.png" />
+    <Content Include="Visual Assets\StoreLogoSquare176.png" />
+    <Content Include="Visual Assets\StoreLogoSquare310.png" />
+    <Content Include="Visual Assets\StoreLogoSquare44.png" />
+    <Content Include="Visual Assets\StoreLogoSquare620.png" />
+    <Content Include="Visual Assets\StoreLogoSquare88.png" />
+    <Content Include="Wines\bree_red.jpg" />
+    <Content Include="Wines\Burgundy Red Wine.jpg" />
+    <Content Include="Wines\Champagne.jpg" />
+    <Content Include="Wines\Chardonnay.jpg" />
+    <Content Include="Wines\Dry Vermouth Wine.jpg" />
+    <Content Include="Wines\Marsala.jpg" />
+    <Content Include="Wines\Merlot Red.jpg" />
+    <Content Include="Wines\Pinot_Noir_Red.jpg" />
+    <Content Include="Wines\Port.jpg" />
+    <Content Include="Wines\red_wine.jpg" />
+    <Content Include="Wines\riesling.jpg" />
+    <Content Include="Wines\sangria.jpg" />
+    <Content Include="Wines\Sherry.jpg" />
+    <Content Include="Wines\Shiraz.jpg" />
+    <Content Include="Wines\Sutter Home Moscato.jpg" />
+    <Content Include="Wines\Sweet Vermouth.jpg" />
+    <Content Include="Wines\Takara Plum Wine.jpg" />
+    <Content Include="Wines\White, sparkling.jpg" />
+    <Content Include="Wines\white-wine.jpg" />
+    <Content Include="Wines\Zinfandel_Red.jpg" />
+    <None Include="project.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <None Include="App1_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Beer\BLUE_MOON.jpg" />
+    <Content Include="Beer\Bud-Light_Platinum.jpg" />
+    <Content Include="Beer\BudLight.jpg" />
+    <Content Include="Beer\coors.jpg" />
+    <Content Include="Beer\corona.jpg" />
+    <Content Include="Beer\Dos Equis XX Lager.jpg" />
+    <Content Include="Beer\Guinness extra.jpg" />
+    <Content Include="Beer\guinnness.jpg" />
+    <Content Include="Beer\heineken.jpg" />
+    <Content Include="Beer\Leinenkugel Fruit Beer.jpg" />
+    <Content Include="Beer\Miller.jpg" />
+    <Content Include="Beer\Peroni.jpg" />
+    <Content Include="Beer\rolling_rock.jpg" />
+    <Content Include="Beer\Samuel Adams Boston Lager.jpg" />
+    <Content Include="Beer\Sapporo.jpg" />
+    <Content Include="Beer\Shock Top Belgian White Beer.jpg" />
+    <Content Include="Beer\Stella.jpg" />
+    <Content Include="Beer\Tecate.jpg" />
+    <Content Include="Can Images\Cidona Can.jpg" />
+    <Content Include="Can Images\club_orange_can.jpg" />
+    <Content Include="Can Images\CokeCan.jpg" />
+    <Content Include="Can Images\Diet+Coke.jpg" />
+    <Content Include="Can Images\Dr-pepper can.jpg" />
+    <Content Include="Can Images\FANTACan.jpg" />
+    <Content Include="Can Images\lucozade-original-can.jpg" />
+    <Content Include="Can Images\Pepsi-can.jpg" />
+    <Content Include="Can Images\ribena-can.jpg" />
+    <Content Include="Can Images\sprite_can.jpg" />
+    <Content Include="Images\beer.jpg" />
+    <Content Include="Images\Can_Coke.jpg" />
+    <Content Include="Images\cidona.jpg" />
+    <Content Include="Images\Club Orange.jpg" />
+    <Content Include="Images\cocktails.jpg" />
+    <Content Include="Images\cokebottle.jpg" />
+    <Content Include="Images\diet-coke.jpg" />
+    <Content Include="Images\dr-pepper.jpg" />
+    <Content Include="Images\fanta.jpg" />
+    <Content Include="Images\Lucozade.jpg" />
+    <Content Include="Images\pepsi.jpg" />
+    <Content Include="Images\Ribena.jpg" />
+    <Content Include="Images\SoftDrinks.jpg" />
+    <Content Include="Images\sprite.jpg" />
+    <Content Include="Images\wine.jpg" />
+    <Content Include="Properties\Default.rd.xml" />
+    <Content Include="Assets\LockScreenLogo.scale-200.png" />
+    <Content Include="Assets\SplashScreen.scale-200.png" />
+    <Content Include="Assets\Square150x150Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
+    <VisualStudioVersion>14.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,1090 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DONAL-PC</Machine>
+    <WindowsUser>Donal</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>a8d3f1b0-04d8-4cd2-afc1-78477be7193d</PackageIdentityName>
+    <IntermediateOutputPath>D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>497F9671AA9185EA2CDAB121809A60D3CFAFEA999CA7AF65A7E5C31D37C27D82</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>10938DonalMcGahon.WhatsinTheCup_1.1.0.0_x86__175xecda1m9ej</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>10938DonalMcGahon.WhatsinTheCup_175xecda1m9ej!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>10938DonalMcGahon.WhatsinTheCup</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Donal</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-14T23:02:28.412</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+      <Modified>2015-12-14T23:02:28.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\App1.xr.xml">
+      <PackagePath>App1.xr.xml</PackagePath>
+      <Modified>2015-12-14T00:58:45.593</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\ApplicationInsights.config">
+      <PackagePath>ApplicationInsights.config</PackagePath>
+      <Modified>2015-09-21T17:23:46.174</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-08-27T00:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-14T01:12:34.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-14T01:28:07.601</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-14T01:28:07.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-14T01:28:07.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-27T00:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-27T00:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-14T01:28:07.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-14T01:28:07.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\BLUE_MOON.jpg">
+      <PackagePath>Beer\BLUE_MOON.jpg</PackagePath>
+      <Modified>2015-12-14T00:56:43.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Bud-Light_Platinum.jpg">
+      <PackagePath>Beer\Bud-Light_Platinum.jpg</PackagePath>
+      <Modified>2015-12-14T00:56:43.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\BudLight.jpg">
+      <PackagePath>Beer\BudLight.jpg</PackagePath>
+      <Modified>2015-12-14T00:56:43.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\coors.jpg">
+      <PackagePath>Beer\coors.jpg</PackagePath>
+      <Modified>2015-12-14T00:56:43.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\corona.jpg">
+      <PackagePath>Beer\corona.jpg</PackagePath>
+      <Modified>2015-12-14T00:56:43.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Dos Equis XX Lager.jpg">
+      <PackagePath>Beer\Dos Equis XX Lager.jpg</PackagePath>
+      <Modified>2015-12-14T00:56:43.542</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Guinness extra.jpg">
+      <PackagePath>Beer\Guinness extra.jpg</PackagePath>
+      <Modified>2015-12-14T00:56:43.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\guinnness.jpg">
+      <PackagePath>Beer\guinnness.jpg</PackagePath>
+      <Modified>2015-12-14T00:56:43.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\heineken.jpg">
+      <PackagePath>Beer\heineken.jpg</PackagePath>
+      <Modified>2015-12-14T00:56:43.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Leinenkugel Fruit Beer.jpg">
+      <PackagePath>Beer\Leinenkugel Fruit Beer.jpg</PackagePath>
+      <Modified>2015-12-14T00:56:43.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Miller.jpg">
+      <PackagePath>Beer\Miller.jpg</PackagePath>
+      <Modified>2015-12-14T00:56:43.628</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Peroni.jpg">
+      <PackagePath>Beer\Peroni.jpg</PackagePath>
+      <Modified>2015-12-14T00:56:43.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\rolling_rock.jpg">
+      <PackagePath>Beer\rolling_rock.jpg</PackagePath>
+      <Modified>2015-12-14T00:56:43.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Samuel Adams Boston Lager.jpg">
+      <PackagePath>Beer\Samuel Adams Boston Lager.jpg</PackagePath>
+      <Modified>2015-12-14T00:56:43.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Sapporo.jpg">
+      <PackagePath>Beer\Sapporo.jpg</PackagePath>
+      <Modified>2015-12-14T00:56:43.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Shock Top Belgian White Beer.jpg">
+      <PackagePath>Beer\Shock Top Belgian White Beer.jpg</PackagePath>
+      <Modified>2015-12-14T00:56:43.688</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Stella.jpg">
+      <PackagePath>Beer\Stella.jpg</PackagePath>
+      <Modified>2015-12-14T00:56:43.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Tecate.jpg">
+      <PackagePath>Beer\Tecate.jpg</PackagePath>
+      <Modified>2015-12-14T00:56:43.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Can Images\Cidona Can.jpg">
+      <PackagePath>Can Images\Cidona Can.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:08.261</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Can Images\club_orange_can.jpg">
+      <PackagePath>Can Images\club_orange_can.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:08.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Can Images\CokeCan.jpg">
+      <PackagePath>Can Images\CokeCan.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:08.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Can Images\Diet+Coke.jpg">
+      <PackagePath>Can Images\Diet+Coke.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:08.370</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Can Images\Dr-pepper can.jpg">
+      <PackagePath>Can Images\Dr-pepper can.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:08.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Can Images\FANTACan.jpg">
+      <PackagePath>Can Images\FANTACan.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:08.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Can Images\lucozade-original-can.jpg">
+      <PackagePath>Can Images\lucozade-original-can.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:08.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Can Images\Pepsi-can.jpg">
+      <PackagePath>Can Images\Pepsi-can.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:08.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Can Images\ribena-can.jpg">
+      <PackagePath>Can Images\ribena-can.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:08.446</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Can Images\sprite_can.jpg">
+      <PackagePath>Can Images\sprite_can.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:08.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+      <Modified>2015-09-21T17:22:49.654</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\entrypoint\App1.exe">
+      <PackagePath>entrypoint\App1.exe</PackagePath>
+      <Modified>2015-12-14T23:02:21.721</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\beer.jpg">
+      <PackagePath>Images\beer.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:26.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\Can_Coke.jpg">
+      <PackagePath>Images\Can_Coke.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:27.013</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\cidona.jpg">
+      <PackagePath>Images\cidona.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:27.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\Club Orange.jpg">
+      <PackagePath>Images\Club Orange.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:27.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\cocktails.jpg">
+      <PackagePath>Images\cocktails.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:27.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\cokebottle.jpg">
+      <PackagePath>Images\cokebottle.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:27.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\diet-coke.jpg">
+      <PackagePath>Images\diet-coke.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:27.076</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\dr-pepper.jpg">
+      <PackagePath>Images\dr-pepper.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:27.083</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\fanta.jpg">
+      <PackagePath>Images\fanta.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:27.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\Lucozade.jpg">
+      <PackagePath>Images\Lucozade.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:27.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\pepsi.jpg">
+      <PackagePath>Images\pepsi.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:27.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\Ribena.jpg">
+      <PackagePath>Images\Ribena.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:27.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\SoftDrinks.jpg">
+      <PackagePath>Images\SoftDrinks.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:27.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\sprite.jpg">
+      <PackagePath>Images\sprite.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:27.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\wine.jpg">
+      <PackagePath>Images\wine.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:27.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll">
+      <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
+      <Modified>2015-09-21T17:22:17.636</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll">
+      <PackagePath>Microsoft.ApplicationInsights.Extensibility.Windows.dll</PackagePath>
+      <Modified>2015-09-21T17:22:17.979</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll">
+      <PackagePath>Microsoft.ApplicationInsights.PersistenceChannel.dll</PackagePath>
+      <Modified>2015-09-21T17:22:17.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Microsoft.CSharp.dll">
+      <PackagePath>Microsoft.CSharp.dll</PackagePath>
+      <Modified>2015-09-21T17:22:33.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Microsoft.VisualBasic.dll">
+      <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
+      <Modified>2015-09-21T17:22:33.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll">
+      <PackagePath>Microsoft.Win32.Primitives.dll</PackagePath>
+      <Modified>2015-09-21T17:22:21.323</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2015-09-21T17:20:50.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-12-14T22:58:26.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Bacardi Rum.jpg">
+      <PackagePath>Spirits\Bacardi Rum.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:47.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Bulliet Bulliet.jpg">
+      <PackagePath>Spirits\Bulliet Bulliet.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:47.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Captain Morgan Parrot Bay.jpg">
+      <PackagePath>Spirits\Captain Morgan Parrot Bay.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:47.268</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Captain Morgan White Rum.jpg">
+      <PackagePath>Spirits\Captain Morgan White Rum.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:47.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Captain Morgan.jpg">
+      <PackagePath>Spirits\Captain Morgan.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:47.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Ciroc Coconut Vodka.jpg">
+      <PackagePath>Spirits\Ciroc Coconut Vodka.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:47.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Ciroc Red Berry Vodka.jpg">
+      <PackagePath>Spirits\Ciroc Red Berry Vodka.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:47.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Cragganmore Whiskey.jpg">
+      <PackagePath>Spirits\Cragganmore Whiskey.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:47.386</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Gordon%27s Vodka or Dry Gin.jpg">
+      <PackagePath>Spirits\Gordon%27s Vodka or Dry Gin.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:47.392</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Jack Daniels.jpg">
+      <PackagePath>Spirits\Jack Daniels.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:47.411</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Johnnie Walker Black Label Whiskey.jpg">
+      <PackagePath>Spirits\Johnnie Walker Black Label Whiskey.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:47.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Johnnie Walker Red Label.jpg">
+      <PackagePath>Spirits\Johnnie Walker Red Label.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:47.522</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Jose Cuervo Especial Silver Tequila.jpg">
+      <PackagePath>Spirits\Jose Cuervo Especial Silver Tequila.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:47.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Jose Cuervo Gold Tequila.jpg">
+      <PackagePath>Spirits\Jose Cuervo Gold Tequila.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:47.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Malibu Rum Flavored with Fruit Essence.jpg">
+      <PackagePath>Spirits\Malibu Rum Flavored with Fruit Essence.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:47.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Seagram Seagram%27s, 7 Crown Whiskey.jpg">
+      <PackagePath>Spirits\Seagram Seagram%27s, 7 Crown Whiskey.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:47.558</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Smirnoff.jpg">
+      <PackagePath>Spirits\Smirnoff.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:47.565</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Tanqueray Gin.jpg">
+      <PackagePath>Spirits\Tanqueray Gin.jpg</PackagePath>
+      <Modified>2015-12-14T00:57:47.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.AppContext.dll">
+      <PackagePath>System.AppContext.dll</PackagePath>
+      <Modified>2015-09-21T17:22:32.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Collections.Concurrent.dll">
+      <PackagePath>System.Collections.Concurrent.dll</PackagePath>
+      <Modified>2015-09-21T17:22:32.899</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Collections.dll">
+      <PackagePath>System.Collections.dll</PackagePath>
+      <Modified>2015-09-21T17:22:32.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Collections.Immutable.dll">
+      <PackagePath>System.Collections.Immutable.dll</PackagePath>
+      <Modified>2015-09-21T17:22:32.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Collections.NonGeneric.dll">
+      <PackagePath>System.Collections.NonGeneric.dll</PackagePath>
+      <Modified>2015-09-21T17:22:21.589</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Collections.Specialized.dll">
+      <PackagePath>System.Collections.Specialized.dll</PackagePath>
+      <Modified>2015-09-21T17:22:20.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll">
+      <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
+      <Modified>2015-09-21T17:22:33.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll">
+      <PackagePath>System.ComponentModel.DataAnnotations.dll</PackagePath>
+      <Modified>2015-09-21T17:22:28.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ComponentModel.dll">
+      <PackagePath>System.ComponentModel.dll</PackagePath>
+      <Modified>2015-09-21T17:22:32.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll">
+      <PackagePath>System.ComponentModel.EventBasedAsync.dll</PackagePath>
+      <Modified>2015-09-21T17:22:21.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Core.dll">
+      <PackagePath>System.Core.dll</PackagePath>
+      <Modified>2015-09-21T17:22:28.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Data.Common.dll">
+      <PackagePath>System.Data.Common.dll</PackagePath>
+      <Modified>2015-09-21T17:22:21.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll">
+      <PackagePath>System.Diagnostics.Contracts.dll</PackagePath>
+      <Modified>2015-09-21T17:22:21.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Diagnostics.Debug.dll">
+      <PackagePath>System.Diagnostics.Debug.dll</PackagePath>
+      <Modified>2015-09-21T17:22:33.164</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll">
+      <PackagePath>System.Diagnostics.StackTrace.dll</PackagePath>
+      <Modified>2015-09-21T17:22:25.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Diagnostics.Tools.dll">
+      <PackagePath>System.Diagnostics.Tools.dll</PackagePath>
+      <Modified>2015-09-21T17:22:33.164</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll">
+      <PackagePath>System.Diagnostics.Tracing.dll</PackagePath>
+      <Modified>2015-09-21T17:22:33.039</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.dll">
+      <PackagePath>System.dll</PackagePath>
+      <Modified>2015-09-21T17:22:28.772</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Dynamic.Runtime.dll">
+      <PackagePath>System.Dynamic.Runtime.dll</PackagePath>
+      <Modified>2015-09-21T17:22:33.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Globalization.Calendars.dll">
+      <PackagePath>System.Globalization.Calendars.dll</PackagePath>
+      <Modified>2015-09-21T17:22:33.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Globalization.dll">
+      <PackagePath>System.Globalization.dll</PackagePath>
+      <Modified>2015-09-21T17:22:33.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Globalization.Extensions.dll">
+      <PackagePath>System.Globalization.Extensions.dll</PackagePath>
+      <Modified>2015-09-21T17:22:34.321</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.IO.Compression.dll">
+      <PackagePath>System.IO.Compression.dll</PackagePath>
+      <Modified>2015-09-21T17:22:35.149</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll">
+      <PackagePath>System.IO.Compression.ZipFile.dll</PackagePath>
+      <Modified>2015-09-21T17:22:34.524</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.IO.dll">
+      <PackagePath>System.IO.dll</PackagePath>
+      <Modified>2015-09-21T17:22:33.836</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.IO.FileSystem.dll">
+      <PackagePath>System.IO.FileSystem.dll</PackagePath>
+      <Modified>2015-09-21T17:22:34.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll">
+      <PackagePath>System.IO.FileSystem.Primitives.dll</PackagePath>
+      <Modified>2015-09-21T17:22:34.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll">
+      <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
+      <Modified>2015-09-21T17:22:27.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll">
+      <PackagePath>System.IO.UnmanagedMemoryStream.dll</PackagePath>
+      <Modified>2015-09-21T17:22:34.524</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Linq.dll">
+      <PackagePath>System.Linq.dll</PackagePath>
+      <Modified>2015-09-21T17:22:35.164</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Linq.Expressions.dll">
+      <PackagePath>System.Linq.Expressions.dll</PackagePath>
+      <Modified>2015-09-21T17:22:36.370</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Linq.Parallel.dll">
+      <PackagePath>System.Linq.Parallel.dll</PackagePath>
+      <Modified>2015-09-21T17:22:35.164</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Linq.Queryable.dll">
+      <PackagePath>System.Linq.Queryable.dll</PackagePath>
+      <Modified>2015-09-21T17:22:36.386</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Net.dll">
+      <PackagePath>System.Net.dll</PackagePath>
+      <Modified>2015-09-21T17:22:28.772</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Net.Http.dll">
+      <PackagePath>System.Net.Http.dll</PackagePath>
+      <Modified>2015-09-21T17:22:36.652</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Net.Http.Rtc.dll">
+      <PackagePath>System.Net.Http.Rtc.dll</PackagePath>
+      <Modified>2015-09-21T17:22:27.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Net.NetworkInformation.dll">
+      <PackagePath>System.Net.NetworkInformation.dll</PackagePath>
+      <Modified>2015-09-21T17:22:35.211</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Net.Primitives.dll">
+      <PackagePath>System.Net.Primitives.dll</PackagePath>
+      <Modified>2015-09-21T17:22:36.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Net.Requests.dll">
+      <PackagePath>System.Net.Requests.dll</PackagePath>
+      <Modified>2015-09-21T17:22:27.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Net.Sockets.dll">
+      <PackagePath>System.Net.Sockets.dll</PackagePath>
+      <Modified>2015-09-21T17:22:27.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll">
+      <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
+      <Modified>2015-09-21T17:22:27.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Numerics.dll">
+      <PackagePath>System.Numerics.dll</PackagePath>
+      <Modified>2015-09-21T17:22:28.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Numerics.Vectors.dll">
+      <PackagePath>System.Numerics.Vectors.dll</PackagePath>
+      <Modified>2015-09-21T17:22:36.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll">
+      <PackagePath>System.Numerics.Vectors.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-09-21T17:22:27.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ObjectModel.dll">
+      <PackagePath>System.ObjectModel.dll</PackagePath>
+      <Modified>2015-09-21T17:22:36.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll">
+      <PackagePath>System.Private.DataContractSerialization.dll</PackagePath>
+      <Modified>2015-09-21T17:22:22.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Private.Networking.dll">
+      <PackagePath>System.Private.Networking.dll</PackagePath>
+      <Modified>2015-09-21T17:22:27.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Private.ServiceModel.dll">
+      <PackagePath>System.Private.ServiceModel.dll</PackagePath>
+      <Modified>2015-09-21T17:22:32.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Private.Uri.dll">
+      <PackagePath>System.Private.Uri.dll</PackagePath>
+      <Modified>2015-09-21T17:22:21.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Reflection.Context.dll">
+      <PackagePath>System.Reflection.Context.dll</PackagePath>
+      <Modified>2015-09-21T17:22:27.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll">
+      <PackagePath>System.Reflection.DispatchProxy.dll</PackagePath>
+      <Modified>2015-09-21T17:22:36.164</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Reflection.dll">
+      <PackagePath>System.Reflection.dll</PackagePath>
+      <Modified>2015-09-21T17:22:36.605</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Reflection.Emit.dll">
+      <PackagePath>System.Reflection.Emit.dll</PackagePath>
+      <Modified>2015-09-21T17:22:51.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll">
+      <PackagePath>System.Reflection.Emit.ILGeneration.dll</PackagePath>
+      <Modified>2015-09-21T17:22:50.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll">
+      <PackagePath>System.Reflection.Emit.Lightweight.dll</PackagePath>
+      <Modified>2015-09-21T17:22:50.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Reflection.Extensions.dll">
+      <PackagePath>System.Reflection.Extensions.dll</PackagePath>
+      <Modified>2015-09-21T17:22:36.636</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Reflection.Metadata.dll">
+      <PackagePath>System.Reflection.Metadata.dll</PackagePath>
+      <Modified>2015-09-21T17:22:37.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Reflection.Primitives.dll">
+      <PackagePath>System.Reflection.Primitives.dll</PackagePath>
+      <Modified>2015-09-21T17:22:37.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll">
+      <PackagePath>System.Reflection.TypeExtensions.dll</PackagePath>
+      <Modified>2015-09-21T17:22:36.292</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Resources.ResourceManager.dll">
+      <PackagePath>System.Resources.ResourceManager.dll</PackagePath>
+      <Modified>2015-09-21T17:22:36.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2015-09-21T17:22:40.886</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.Extensions.dll">
+      <PackagePath>System.Runtime.Extensions.dll</PackagePath>
+      <Modified>2015-09-21T17:22:37.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.Handles.dll">
+      <PackagePath>System.Runtime.Handles.dll</PackagePath>
+      <Modified>2015-09-21T17:22:36.886</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.InteropServices.dll">
+      <PackagePath>System.Runtime.InteropServices.dll</PackagePath>
+      <Modified>2015-09-21T17:22:40.886</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.InteropServices.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-09-21T17:22:27.084</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.Numerics.dll">
+      <PackagePath>System.Runtime.Numerics.dll</PackagePath>
+      <Modified>2015-09-21T17:22:41.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.Serialization.dll">
+      <PackagePath>System.Runtime.Serialization.dll</PackagePath>
+      <Modified>2015-09-21T17:22:28.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll">
+      <PackagePath>System.Runtime.Serialization.Json.dll</PackagePath>
+      <Modified>2015-09-21T17:22:27.397</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll">
+      <PackagePath>System.Runtime.Serialization.Primitives.dll</PackagePath>
+      <Modified>2015-09-21T17:22:27.397</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll">
+      <PackagePath>System.Runtime.Serialization.Xml.dll</PackagePath>
+      <Modified>2015-09-21T17:22:28.741</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-09-21T17:22:28.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll">
+      <PackagePath>System.Runtime.WindowsRuntime.UI.Xaml.dll</PackagePath>
+      <Modified>2015-09-21T17:22:31.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Security.Claims.dll">
+      <PackagePath>System.Security.Claims.dll</PackagePath>
+      <Modified>2015-09-21T17:22:38.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Security.Principal.dll">
+      <PackagePath>System.Security.Principal.dll</PackagePath>
+      <Modified>2015-09-21T17:22:40.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ServiceModel.dll">
+      <PackagePath>System.ServiceModel.dll</PackagePath>
+      <Modified>2015-09-21T17:22:28.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll">
+      <PackagePath>System.ServiceModel.Duplex.dll</PackagePath>
+      <Modified>2015-09-21T17:22:32.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ServiceModel.Http.dll">
+      <PackagePath>System.ServiceModel.Http.dll</PackagePath>
+      <Modified>2015-09-21T17:22:32.836</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll">
+      <PackagePath>System.ServiceModel.NetTcp.dll</PackagePath>
+      <Modified>2015-09-21T17:22:32.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll">
+      <PackagePath>System.ServiceModel.Primitives.dll</PackagePath>
+      <Modified>2015-09-21T17:22:32.836</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ServiceModel.Security.dll">
+      <PackagePath>System.ServiceModel.Security.dll</PackagePath>
+      <Modified>2015-09-21T17:22:32.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ServiceModel.Web.dll">
+      <PackagePath>System.ServiceModel.Web.dll</PackagePath>
+      <Modified>2015-09-21T17:22:28.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll">
+      <PackagePath>System.Text.Encoding.CodePages.dll</PackagePath>
+      <Modified>2015-09-21T17:22:32.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Text.Encoding.dll">
+      <PackagePath>System.Text.Encoding.dll</PackagePath>
+      <Modified>2015-09-21T17:22:41.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll">
+      <PackagePath>System.Text.Encoding.Extensions.dll</PackagePath>
+      <Modified>2015-09-21T17:22:41.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Text.RegularExpressions.dll">
+      <PackagePath>System.Text.RegularExpressions.dll</PackagePath>
+      <Modified>2015-09-21T17:22:41.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Threading.dll">
+      <PackagePath>System.Threading.dll</PackagePath>
+      <Modified>2015-09-21T17:22:41.043</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Threading.Overlapped.dll">
+      <PackagePath>System.Threading.Overlapped.dll</PackagePath>
+      <Modified>2015-09-21T17:22:20.604</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll">
+      <PackagePath>System.Threading.Tasks.Dataflow.dll</PackagePath>
+      <Modified>2015-09-21T17:22:41.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Threading.Tasks.dll">
+      <PackagePath>System.Threading.Tasks.dll</PackagePath>
+      <Modified>2015-09-21T17:22:41.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll">
+      <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
+      <Modified>2015-09-21T17:22:34.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Threading.Timer.dll">
+      <PackagePath>System.Threading.Timer.dll</PackagePath>
+      <Modified>2015-09-21T17:22:33.024</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Windows.dll">
+      <PackagePath>System.Windows.dll</PackagePath>
+      <Modified>2015-09-21T17:22:28.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Xml.dll">
+      <PackagePath>System.Xml.dll</PackagePath>
+      <Modified>2015-09-21T17:22:28.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Xml.Linq.dll">
+      <PackagePath>System.Xml.Linq.dll</PackagePath>
+      <Modified>2015-09-21T17:22:28.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll">
+      <PackagePath>System.Xml.ReaderWriter.dll</PackagePath>
+      <Modified>2015-09-21T17:22:27.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Xml.Serialization.dll">
+      <PackagePath>System.Xml.Serialization.dll</PackagePath>
+      <Modified>2015-09-21T17:22:28.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Xml.XDocument.dll">
+      <PackagePath>System.Xml.XDocument.dll</PackagePath>
+      <Modified>2015-09-21T17:22:21.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Xml.XmlDocument.dll">
+      <PackagePath>System.Xml.XmlDocument.dll</PackagePath>
+      <Modified>2015-09-21T17:22:20.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll">
+      <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
+      <Modified>2015-09-21T17:22:32.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\300x300.scale-400.png">
+      <PackagePath>Vis Assets\300x300.scale-400.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\BadgeLogo.scale-400.png">
+      <PackagePath>Vis Assets\BadgeLogo.scale-400.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.433</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Vis Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\SplashScreen.scale-200.png">
+      <PackagePath>Vis Assets\SplashScreen.scale-200.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.487</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Vis Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.573</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Vis Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.601</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Vis Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Vis Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-14T01:28:07.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square310x310Logo.scale-200.png">
+      <PackagePath>Vis Assets\Square310x310Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-14T01:28:07.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square310x310Logo.scale-400.png">
+      <PackagePath>Vis Assets\Square310x310Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-14T01:28:07.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Vis Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.500</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Vis Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Vis Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Vis Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square71x71Logo.scale-400.png">
+      <PackagePath>Vis Assets\Square71x71Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-14T01:28:07.561</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\StoreLogo.png">
+      <PackagePath>Vis Assets\StoreLogo.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\StoreLogo.scale-100.png">
+      <PackagePath>Vis Assets\StoreLogo.scale-100.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\StoreLogo.scale-400.png">
+      <PackagePath>Vis Assets\StoreLogo.scale-400.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\StoreLogo200x200.scale-400.png">
+      <PackagePath>Vis Assets\StoreLogo200x200.scale-400.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\StoreLogo50x50.png">
+      <PackagePath>Vis Assets\StoreLogo50x50.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\StoreLogo50x50.scale-100.png">
+      <PackagePath>Vis Assets\StoreLogo50x50.scale-100.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\StoreLogo50x50.scale-400.png">
+      <PackagePath>Vis Assets\StoreLogo50x50.scale-400.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.812</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Vis Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Vis Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Vis Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <Modified>2015-12-14T01:28:07.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\300x300.png">
+      <PackagePath>Visual Assets\300x300.png</PackagePath>
+      <Modified>2015-12-14T01:12:33.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\badgelogo96x96.png">
+      <PackagePath>Visual Assets\badgelogo96x96.png</PackagePath>
+      <Modified>2015-12-14T01:12:34.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\SplashScreen1240x600.png">
+      <PackagePath>Visual Assets\SplashScreen1240x600.png</PackagePath>
+      <Modified>2015-12-14T01:12:34.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\SplashScreen310.png">
+      <PackagePath>Visual Assets\SplashScreen310.png</PackagePath>
+      <Modified>2015-12-14T01:12:34.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\SplashScreen620x300.png">
+      <PackagePath>Visual Assets\SplashScreen620x300.png</PackagePath>
+      <Modified>2015-12-14T01:12:34.500</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\SplashScreenresize.png">
+      <PackagePath>Visual Assets\SplashScreenresize.png</PackagePath>
+      <Modified>2015-12-14T01:12:34.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\Storelogo.png">
+      <PackagePath>Visual Assets\Storelogo.png</PackagePath>
+      <Modified>2015-12-14T01:12:34.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogo150.png">
+      <PackagePath>Visual Assets\StoreLogo150.png</PackagePath>
+      <Modified>2015-12-14T01:12:34.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogo200.png">
+      <PackagePath>Visual Assets\StoreLogo200.png</PackagePath>
+      <Modified>2015-12-14T01:12:34.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\Storelogo200x200.png">
+      <PackagePath>Visual Assets\Storelogo200x200.png</PackagePath>
+      <Modified>2015-12-14T01:12:34.648</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogo284.png">
+      <PackagePath>Visual Assets\StoreLogo284.png</PackagePath>
+      <Modified>2015-12-14T01:12:34.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogo300.png">
+      <PackagePath>Visual Assets\StoreLogo300.png</PackagePath>
+      <Modified>2015-12-14T01:12:34.708</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\Storelogo50x50.png">
+      <PackagePath>Visual Assets\Storelogo50x50.png</PackagePath>
+      <Modified>2015-12-14T01:12:34.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogo600.png">
+      <PackagePath>Visual Assets\StoreLogo600.png</PackagePath>
+      <Modified>2015-12-14T01:12:34.721</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogoSquare1240.png">
+      <PackagePath>Visual Assets\StoreLogoSquare1240.png</PackagePath>
+      <Modified>2015-12-14T01:12:34.812</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogoSquare176.png">
+      <PackagePath>Visual Assets\StoreLogoSquare176.png</PackagePath>
+      <Modified>2015-12-14T01:12:34.764</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogoSquare310.png">
+      <PackagePath>Visual Assets\StoreLogoSquare310.png</PackagePath>
+      <Modified>2015-12-14T01:12:34.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogoSquare44.png">
+      <PackagePath>Visual Assets\StoreLogoSquare44.png</PackagePath>
+      <Modified>2015-12-14T01:12:34.734</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogoSquare620.png">
+      <PackagePath>Visual Assets\StoreLogoSquare620.png</PackagePath>
+      <Modified>2015-12-14T01:12:34.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogoSquare88.png">
+      <PackagePath>Visual Assets\StoreLogoSquare88.png</PackagePath>
+      <Modified>2015-12-14T01:12:34.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\bree_red.jpg">
+      <PackagePath>Wines\bree_red.jpg</PackagePath>
+      <Modified>2015-12-14T00:58:06.435</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Burgundy Red Wine.jpg">
+      <PackagePath>Wines\Burgundy Red Wine.jpg</PackagePath>
+      <Modified>2015-12-14T00:58:06.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Champagne.jpg">
+      <PackagePath>Wines\Champagne.jpg</PackagePath>
+      <Modified>2015-12-14T00:58:06.448</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Chardonnay.jpg">
+      <PackagePath>Wines\Chardonnay.jpg</PackagePath>
+      <Modified>2015-12-14T00:58:06.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Dry Vermouth Wine.jpg">
+      <PackagePath>Wines\Dry Vermouth Wine.jpg</PackagePath>
+      <Modified>2015-12-14T00:58:06.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Marsala.jpg">
+      <PackagePath>Wines\Marsala.jpg</PackagePath>
+      <Modified>2015-12-14T00:58:06.575</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Merlot Red.jpg">
+      <PackagePath>Wines\Merlot Red.jpg</PackagePath>
+      <Modified>2015-12-14T00:58:06.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Pinot_Noir_Red.jpg">
+      <PackagePath>Wines\Pinot_Noir_Red.jpg</PackagePath>
+      <Modified>2015-12-14T00:58:06.609</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Port.jpg">
+      <PackagePath>Wines\Port.jpg</PackagePath>
+      <Modified>2015-12-14T00:58:06.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\red_wine.jpg">
+      <PackagePath>Wines\red_wine.jpg</PackagePath>
+      <Modified>2015-12-14T00:58:06.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\riesling.jpg">
+      <PackagePath>Wines\riesling.jpg</PackagePath>
+      <Modified>2015-12-14T00:58:06.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\sangria.jpg">
+      <PackagePath>Wines\sangria.jpg</PackagePath>
+      <Modified>2015-12-14T00:58:06.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Sherry.jpg">
+      <PackagePath>Wines\Sherry.jpg</PackagePath>
+      <Modified>2015-12-14T00:58:06.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Shiraz.jpg">
+      <PackagePath>Wines\Shiraz.jpg</PackagePath>
+      <Modified>2015-12-14T00:58:06.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Sutter Home Moscato.jpg">
+      <PackagePath>Wines\Sutter Home Moscato.jpg</PackagePath>
+      <Modified>2015-12-14T00:58:06.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Sweet Vermouth.jpg">
+      <PackagePath>Wines\Sweet Vermouth.jpg</PackagePath>
+      <Modified>2015-12-14T00:58:06.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Takara Plum Wine.jpg">
+      <PackagePath>Wines\Takara Plum Wine.jpg</PackagePath>
+      <Modified>2015-12-14T00:58:06.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\White, sparkling.jpg">
+      <PackagePath>Wines\White, sparkling.jpg</PackagePath>
+      <Modified>2015-12-14T00:58:06.764</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\white-wine.jpg">
+      <PackagePath>Wines\white-wine.jpg</PackagePath>
+      <Modified>2015-12-14T00:58:06.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Zinfandel_Red.jpg">
+      <PackagePath>Wines\Zinfandel_Red.jpg</PackagePath>
+      <Modified>2015-12-14T00:58:06.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\WinMetadata\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2015-09-21T15:41:20.740</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23302.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23302.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\ARM\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23302.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23302.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\x64\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23302.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23302.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\x86\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

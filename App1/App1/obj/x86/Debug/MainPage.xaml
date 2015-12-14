@@ -1,0 +1,495 @@
+﻿<Page
+    x:Class="App1.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Pivot x:ConnectionId='1' x:Name ="pvtDrinks"  Title="What's in the Cup">
+        <PivotItem Header="Soft Drinks">
+            <Grid>
+                <Grid.Background>
+                    <ImageBrush ImageSource="Images/SoftDrinks.jpg" 
+                        Stretch="UniformToFill" Opacity="0.3" />
+                </Grid.Background>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="130" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <TextBlock x:ConnectionId='72' x:Name="textBlock1" HorizontalAlignment="Left" Margin="2,190,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="165" Width="203" Grid.Column="1" FontSize="12" FontStyle="Italic"/>
+                <TextBlock x:ConnectionId='73' x:Name="textBlock3" HorizontalAlignment="Left" Margin="2,170,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="20" Width="203" Grid.Column="1" FontSize="13.333" FontStyle="Italic" FontWeight="Bold"/>
+                <StackPanel HorizontalAlignment="Left" Height="535" Margin="0,10,0,0" VerticalAlignment="Top" Width="59">
+                    <Button x:ConnectionId='88' x:Name="button1" Content="" HorizontalAlignment="Left" VerticalAlignment="Top"                       Height="50"  Width="56" >
+                        <Button.Foreground>
+                            <ImageBrush Stretch="Fill" ImageSource="Images/cokebottle.jpg"/>
+                        </Button.Foreground>
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Images/cokebottle.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='89' x:Name="button" Content="" HorizontalAlignment="Left" VerticalAlignment="Top"                        Height="50" Width="56">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Images/fanta.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='90' x:Name="button2" HorizontalAlignment="Left" VerticalAlignment="Top" Content=""  Height="50" Width="56"                      >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Images/pepsi.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='91' x:Name="button2_Copy" HorizontalAlignment="Left" VerticalAlignment="Top" Content=""  Height="50" Width="56"                          >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Images/dr-pepper.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='92' x:Name="button3_Copy9" Content="" HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="56"                        Height="50">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Images/Club Orange.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='93' x:Name="button3_Copy10" Content="" HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="56"                         Height="50">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Images/cidona.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='94' x:Name="button3_Copy11" Content="" HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="56"                           Height="50">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Images/diet-coke.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='95' x:Name="button3_Copy12" Content="" HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="56"                           Height="50">
+                        <Button.Background>
+                            <ImageBrush ImageSource="Images/Lucozade.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='96' x:Name="button3_Copy13" Content="" HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="56"                          Height="50">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Images/Ribena.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='97' x:Name="button3_Copy14" Content="" HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="56"                         Height="50">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Images/sprite.jpg"/>
+                        </Button.Background>
+                    </Button>
+                </StackPanel>
+                <TextBlock x:ConnectionId='74' x:Name="textBlock" HorizontalAlignment="Left" Margin="2,65,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Height="100" Width="203" Grid.Column="1" FontSize="24" FontStyle="Italic"/>
+                <TextBlock x:ConnectionId='75' x:Name="textBlock2" HorizontalAlignment="Left" Margin="2,380,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Height="165" Width="203" Grid.Column="1" FontSize="14.667" FontStyle="Italic" LineStackingStrategy="BaselineToBaseline"/>
+                <TextBlock x:ConnectionId='76' x:Name="textBlock04" HorizontalAlignment="Left" Margin="2,360,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Height="20" Width="203" Grid.Column="1" FontSize="13.333" FontStyle="Italic" FontWeight="Bold"/>
+                <TextBlock x:ConnectionId='77' x:Name="textBlock05" HorizontalAlignment="Left" Margin="2,0,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Height="60" Width="203" Grid.Column="1" FontSize="24" FontStyle="Italic" Foreground="#FFC80000" FontWeight="Bold"/>
+                <StackPanel HorizontalAlignment="Left" Height="535" Margin="64,10,0,0" VerticalAlignment="Top" Width="59">
+                    <Button x:ConnectionId='78' x:Name="button3" Content="" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="50" Width="56"                        >
+                        <Button.Background>
+                            <ImageBrush ImageSource="Can Images/CokeCan.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='79' x:Name="button3_Copy" Content="" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="56"                              Height="50">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Can Images/FANTACan.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='80' x:Name="button3_Copy1" Content="" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="56"                           Height="50">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Can Images/Pepsi-can.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='81' x:Name="button3_Copy2" Content="" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="56"                         Height="50">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Can Images/Dr-pepper can.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='82' x:Name="button3_Copy3" Content="" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="56"                            Height="50">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Can Images/club_orange_can.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='83' x:Name="button3_Copy4" Content="" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="56"                            Height="50">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Can Images/Cidona Can.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='84' x:Name="button3_Copy5" Content="" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="56"                              Height="50" Margin="0,0,1,0">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Can Images/Diet+Coke.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='85' x:Name="button3_Copy6" Content="" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="56"                              Height="50">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Can Images/lucozade-original-can.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='86' x:Name="button3_Copy7" Content="" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="56"                            Height="50">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Can Images/ribena-can.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='87' x:Name="button3_Copy8" Content="" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="56"                            Height="50">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Can Images/sprite_can.jpg"/>
+                        </Button.Background>
+                    </Button>
+                </StackPanel>
+            </Grid>
+
+        </PivotItem>
+
+        <PivotItem Header="Wines">
+            <Grid>
+                <Grid.Background>
+                    <ImageBrush ImageSource="Images/wine.jpg" 
+                        Stretch="UniformToFill" Opacity="0.3" />
+                </Grid.Background>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="130" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <TextBlock x:ConnectionId='50' x:Name="textBlock4" HorizontalAlignment="Left" Margin="2,0,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Height="60" Width="203" Grid.Column="1" FontSize="24" FontStyle="Italic" Foreground="#FF00C800" FontWeight="Bold"/>
+                <TextBlock x:ConnectionId='51' x:Name="textBlock5" HorizontalAlignment="Left" Margin="2,65,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Height="100" Width="203" Grid.Column="1" FontSize="24" FontStyle="Italic"/>
+                <TextBlock x:ConnectionId='52' x:Name="textBlock6" HorizontalAlignment="Left" Margin="2,170,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="20" Width="203" Grid.Column="1" FontSize="13.333" FontStyle="Italic" FontWeight="Bold"/>
+                <TextBlock x:ConnectionId='53' x:Name="textBlock07" HorizontalAlignment="Left" Margin="2,190,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="165" Width="203" Grid.Column="1" FontSize="12" FontStyle="Italic"/>
+                <TextBlock x:ConnectionId='54' x:Name="textBlock08" HorizontalAlignment="Left" Margin="2,360,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Height="20" Width="203" Grid.Column="1" FontSize="13.333" FontStyle="Italic" FontWeight="Bold"/>
+                <TextBlock x:ConnectionId='55' x:Name="textBlock09" HorizontalAlignment="Left" Margin="2,380,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Height="165" Width="203" Grid.Column="1" FontSize="14.667" FontStyle="Italic" LineStackingStrategy="BaselineToBaseline"/>
+
+                <StackPanel HorizontalAlignment="Left" Height="535" Margin="0,10,0,0" VerticalAlignment="Top" Width="59">
+                    <Button x:ConnectionId='64' x:Name="button4" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="60"  Width="56" FontSize="6" FontWeight="Bold" RequestedTheme="Light" Foreground="#FFC8C800"                      >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Wines/white-wine.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='65' x:Name="button5" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="60"  Width="56" FontSize="6.667" FontWeight="Bold" Foreground="#FFC8C800"                      >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Wines/red_wine.jpg">
+                                <ImageBrush.RelativeTransform>
+                                    <CompositeTransform CenterY="0.5" CenterX="0.5"/>
+                                </ImageBrush.RelativeTransform>
+                            </ImageBrush>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='66' x:Name="button6" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="60"  Width="56" FontSize="6.333" FontWeight="Bold" Foreground="#FFC8C800"                      >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Wines/Champagne.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='67' x:Name="button7" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="60"  Width="56" FontSize="6.667" FontWeight="SemiBold" RenderTransformOrigin="0.5,0.5" Foreground="#FFC8C800"                      >
+                        <Button.Background>
+                            <ImageBrush ImageSource="Wines/sangria.jpg">
+                                <ImageBrush.RelativeTransform>
+                                    <CompositeTransform/>
+                                </ImageBrush.RelativeTransform>
+                            </ImageBrush>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='68' x:Name="button8" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="60"  Width="56" FontSize="6.667" Foreground="#FFC8C800"                      >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Wines/riesling.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='69' x:Name="button9" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="60"  Width="56" FontSize="5.6" Foreground="#FFC8C800"                      >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Wines/Burgundy Red Wine.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='70' x:Name="button10" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="60"  Width="56" FontSize="6.667" FontWeight="Bold" Foreground="#FFC8C800"                       >
+                        <Button.Background>
+                            <ImageBrush ImageSource="Wines/Merlot Red.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='71' x:Name="button11" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="60"  Width="56" FontSize="6.667" FontWeight="Bold" Foreground="#FFC8C800"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Wines/bree_red.jpg"/>
+                        </Button.Background>
+                    </Button>
+                </StackPanel>
+                <StackPanel HorizontalAlignment="Left" Height="535" Margin="64,10,0,0" VerticalAlignment="Top" Width="59" RenderTransformOrigin="0.453,0.498">
+                    <Button x:ConnectionId='56' x:Name="button14" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="60"  Width="56" FontSize="8" Foreground="#FFC8C800"                           >
+                        <Button.Background>
+                            <ImageBrush ImageSource="ms-appx:///Wines/Zinfandel_Red.jpg" Stretch="Fill"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='57' x:Name="button15" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="60"  Width="56" Foreground="#FFC8C800" FontSize="5.333" FontWeight="Bold"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Wines/Sweet Vermouth.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='58' x:Name="button16" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="60"  Width="56" FontSize="5.333" Foreground="#FFC8C800"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Wines/Dry Vermouth Wine.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='59' x:Name="button17" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="60"  Width="56" FontSize="10.667" Foreground="#FFC8C800"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Wines/Sherry.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='60' x:Name="button18" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="60"  Width="56" FontSize="9.333" Foreground="#FFC8C800"                       >
+                        <Button.Background>
+                            <ImageBrush ImageSource="Wines/Marsala.jpg" Stretch="Fill"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='61' x:Name="button19" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="60"  Width="56" FontSize="5" Foreground="#FFC8C800"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Wines/White, sparkling.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='62' x:Name="button20" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="60"  Width="56" FontSize="3.333" FontWeight="Bold" Foreground="#FFC8C800"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Wines/Sutter Home Moscato.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='63' x:Name="button23" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="60"  Width="56" Foreground="#FFC8C800" FontSize="8" FontWeight="Bold"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Wines/Takara Plum Wine.jpg"/>
+                        </Button.Background>
+                    </Button>
+                </StackPanel>
+
+
+            </Grid>
+        </PivotItem>
+
+
+        <PivotItem Header="Beer">
+            <Grid>
+                <Grid.Background>
+                    <ImageBrush ImageSource="Images/beer.jpg" 
+                        Stretch="UniformToFill" Opacity="0.3" />
+                </Grid.Background>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="130" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <TextBlock x:ConnectionId='26' x:Name="textBlock7" HorizontalAlignment="Left" Margin="2,0,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Height="60" Width="203" Grid.Column="1" FontSize="24" FontStyle="Italic" Foreground="#FF340FD8" FontWeight="Bold"/>
+                <TextBlock x:ConnectionId='27' x:Name="textBlock8" HorizontalAlignment="Left" Margin="2,65,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Height="100" Width="203" Grid.Column="1" FontSize="24" FontStyle="Italic"/>
+                <TextBlock x:ConnectionId='28' x:Name="textBlock9" HorizontalAlignment="Left" Margin="2,170,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="20" Width="203" Grid.Column="1" FontSize="13.333" FontStyle="Italic" FontWeight="Bold"/>
+                <TextBlock x:ConnectionId='29' x:Name="textBlock010" HorizontalAlignment="Left" Margin="2,190,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="165" Width="203" Grid.Column="1" FontSize="12" FontStyle="Italic"/>
+                <TextBlock x:ConnectionId='30' x:Name="textBlock011" HorizontalAlignment="Left" Margin="2,360,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Height="20" Width="203" Grid.Column="1" FontSize="13.333" FontStyle="Italic" FontWeight="Bold"/>
+                <TextBlock x:ConnectionId='31' x:Name="textBlock012" HorizontalAlignment="Left" Margin="2,380,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Height="165" Width="203" Grid.Column="1" FontSize="14.667" FontStyle="Italic" LineStackingStrategy="BaselineToBaseline"/>
+
+                <StackPanel HorizontalAlignment="Left" Height="535" Margin="0,10,0,0" VerticalAlignment="Top" Width="56">
+                    <Button x:ConnectionId='41' x:Name="button24" Content="" HorizontalAlignment="Left" VerticalAlignment="Stretch" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Beer/coors.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='42' x:Name="button25" Content="" HorizontalAlignment="Left" VerticalAlignment="Stretch" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Beer/BudLight.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='43' x:Name="button26" Content="" HorizontalAlignment="Left" VerticalAlignment="Stretch" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Beer/Bud-Light_Platinum.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='44' x:Name="button27" Content="" HorizontalAlignment="Left" VerticalAlignment="Stretch" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Beer/BLUE_MOON.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='45' x:Name="button28" Content="" HorizontalAlignment="Left" VerticalAlignment="Stretch" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Beer/Stella.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='46' x:Name="button29" Content="" HorizontalAlignment="Left" VerticalAlignment="Stretch" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Beer/heineken.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='47' x:Name="button30" Content="" HorizontalAlignment="Left" VerticalAlignment="Stretch" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Beer/Shock Top Belgian White Beer.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='48' x:Name="button31" Content="" HorizontalAlignment="Left" VerticalAlignment="Stretch" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Beer/Samuel Adams Boston Lager.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='49' x:Name="button32" Content="" HorizontalAlignment="Left" VerticalAlignment="Stretch" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Beer/rolling_rock.jpg"/>
+                        </Button.Background>
+                    </Button>
+                </StackPanel>
+                <StackPanel HorizontalAlignment="Left" Height="535" Margin="64,10,0,0" VerticalAlignment="Top" Width="56" RenderTransformOrigin="0.453,0.498">
+                    <Button x:ConnectionId='32' x:Name="button33" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Beer/guinnness.jpg"/>
+                        </Button.Background>
+
+                    </Button>
+                    <Button x:ConnectionId='33' x:Name="button34" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Beer/Guinness extra.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='34' x:Name="button35" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Beer/Miller.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='35' x:Name="button36" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Beer/Peroni.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='36' x:Name="button37" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Beer/Dos Equis XX Lager.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='37' x:Name="button38" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Beer/Leinenkugel Fruit Beer.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='38' x:Name="button39" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Beer/corona.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='39' x:Name="button40" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Beer/Sapporo.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='40' x:Name="button41" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Beer/Tecate.jpg"/>
+                        </Button.Background>
+                    </Button>
+                </StackPanel>
+
+            </Grid>
+        </PivotItem>
+
+
+        <PivotItem Header="Spirits">
+            <Grid>
+                <Grid.Background>
+                    <ImageBrush ImageSource="Images/cocktails.jpg" 
+                        Stretch="UniformToFill" Opacity="0.3" />
+                </Grid.Background>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="130" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <TextBlock x:ConnectionId='2' x:Name="textBlock13" HorizontalAlignment="Left" Margin="2,0,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Height="60" Width="203" Grid.Column="1" FontSize="24" FontStyle="Italic" Foreground="#FF0FBDD8" FontWeight="Bold"/>
+                <TextBlock x:ConnectionId='3' x:Name="textBlock14" HorizontalAlignment="Left" Margin="2,65,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Height="100" Width="203" Grid.Column="1" FontSize="24" FontStyle="Italic"/>
+                <TextBlock x:ConnectionId='4' x:Name="textBlock15" HorizontalAlignment="Left" Margin="2,170,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="20" Width="203" Grid.Column="1" FontSize="13.333" FontStyle="Italic" FontWeight="Bold"/>
+                <TextBlock x:ConnectionId='5' x:Name="textBlock16" HorizontalAlignment="Left" Margin="2,190,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="165" Width="203" Grid.Column="1" FontSize="12" FontStyle="Italic"/>
+                <TextBlock x:ConnectionId='6' x:Name="textBlock17" HorizontalAlignment="Left" Margin="2,360,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Height="20" Width="203" Grid.Column="1" FontSize="13.333" FontStyle="Italic" FontWeight="Bold"/>
+                <TextBlock x:ConnectionId='7' x:Name="textBlock18" HorizontalAlignment="Left" Margin="2,380,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Height="165" Width="203" Grid.Column="1" FontSize="14.667" FontStyle="Italic" LineStackingStrategy="BaselineToBaseline"/>
+
+                <StackPanel HorizontalAlignment="Left" Height="535" Margin="0,10,0,0" VerticalAlignment="Top" Width="56">
+                    <Button x:ConnectionId='17' x:Name="button42" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Spirits/Bacardi Rum.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='18' x:Name="button43" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Spirits/Captain Morgan Parrot Bay.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='19' x:Name="button44" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Spirits/Captain Morgan White Rum.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='20' x:Name="button45" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Spirits/Captain Morgan.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='21' x:Name="button46" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Spirits/Cragganmore Whiskey.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='22' x:Name="button47" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="56"  Width="56"                       >
+                        <Button.Foreground>
+                            <ImageBrush Stretch="Fill" ImageSource="Spirits/Captain Morgan Parrot Bay Strawberry.jpg"/>
+                        </Button.Foreground>
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Spirits/Bulliet Bulliet.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='23' x:Name="button48" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Spirits/Gordon's Vodka or Dry Gin.jpg"/>
+                        </Button.Background>
+
+                    </Button>
+                    <Button x:ConnectionId='24' x:Name="button49" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Spirits/Jack Daniels.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='25' x:Name="button50" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Spirits/Johnnie Walker Black Label Whiskey.jpg"/>
+                        </Button.Background>
+                    </Button>
+
+                </StackPanel>
+                <StackPanel HorizontalAlignment="Left" Height="535" Margin="64,10,0,0" VerticalAlignment="Top" Width="56" RenderTransformOrigin="0.453,0.498">
+                    <Button x:ConnectionId='8' x:Name="button51" Content="" HorizontalAlignment="Left" VerticalAlignment="Top"  Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Spirits/Johnnie Walker Red Label.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='9' x:Name="button52" Content="" HorizontalAlignment="Left" VerticalAlignment="Top"  Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Spirits/Jose Cuervo Especial Silver Tequila.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='10' x:Name="button53" Content="" HorizontalAlignment="Left" VerticalAlignment="Top"  Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Spirits/Jose Cuervo Gold Tequila.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='11' x:Name="button54" Content="" HorizontalAlignment="Left" VerticalAlignment="Top"  Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Spirits/Ciroc Coconut Vodka.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='12' x:Name="button55" Content="" HorizontalAlignment="Left" VerticalAlignment="Top"  Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Spirits/Ciroc Red Berry Vodka.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='13' x:Name="button56" Content="" HorizontalAlignment="Left" VerticalAlignment="Top"  Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Spirits/Malibu Rum Flavored with Fruit Essence.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='14' x:Name="button57" Content="" HorizontalAlignment="Left" VerticalAlignment="Top"  Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Spirits/Seagram Seagram's, 7 Crown Whiskey.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='15' x:Name="button58" Content="" HorizontalAlignment="Left" VerticalAlignment="Top"  Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Spirits/Smirnoff.jpg"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='16' x:Name="button59" Content="" HorizontalAlignment="Left" VerticalAlignment="Top"  Height="56"  Width="56"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Spirits/Tanqueray Gin.jpg"/>
+                        </Button.Background>
+                    </Button>
+
+                </StackPanel>
+            </Grid>
+
+
+        </PivotItem>
+    </Pivot>
+
+</Page>
+

@@ -1,0 +1,691 @@
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\ApplicationInsights.config
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\App.xbf
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\MainPage.xbf
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\App1.xr.xml
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\App1.exe
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\App1.pdb
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\resources.pri
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\AppxManifest.xml
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\App1.exe
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\App1.pdb
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\App1.xr.xml
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\ApplicationInsights.config
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\AppxManifest.xml
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Assets\StoreLogo.png
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\ClrCompression.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\entrypoint\App1.exe
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Microsoft.CSharp.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Microsoft.VisualBasic.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Properties\Default.rd.xml
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\resources.pri
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.AppContext.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Collections.Concurrent.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Collections.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Collections.Immutable.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Collections.NonGeneric.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Collections.Specialized.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ComponentModel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Core.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Data.Common.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Diagnostics.Debug.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Diagnostics.Tools.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Dynamic.Runtime.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Globalization.Calendars.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Globalization.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Globalization.Extensions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.IO.Compression.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.IO.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.IO.FileSystem.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Linq.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Linq.Expressions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Linq.Parallel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Linq.Queryable.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Net.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Net.Http.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Net.Http.Rtc.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Net.NetworkInformation.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Net.Primitives.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Net.Requests.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Net.Sockets.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Numerics.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Numerics.Vectors.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ObjectModel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Private.Networking.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Private.ServiceModel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Private.Uri.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Reflection.Context.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Reflection.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Reflection.Emit.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Reflection.Extensions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Reflection.Metadata.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Reflection.Primitives.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Resources.ResourceManager.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.Extensions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.Handles.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.InteropServices.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.Numerics.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.Serialization.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Security.Claims.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Security.Principal.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ServiceModel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ServiceModel.Http.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ServiceModel.Security.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.ServiceModel.Web.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Text.Encoding.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Text.RegularExpressions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Threading.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Threading.Overlapped.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Threading.Tasks.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Threading.Timer.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Windows.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Xml.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Xml.Linq.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Xml.Serialization.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Xml.XDocument.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Xml.XmlDocument.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Core\WinMetadata\Windows.winmd
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\App1.build.appxrecipe
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Microsoft.CSharp.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Core.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Net.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Numerics.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Runtime.Serialization.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.ServiceModel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.ServiceModel.Web.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Windows.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Xml.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Xml.Linq.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Xml.Serialization.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Microsoft.VisualBasic.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.AppContext.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Collections.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Collections.Concurrent.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Collections.Immutable.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Collections.NonGeneric.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Collections.Specialized.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.ComponentModel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.ComponentModel.Annotations.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Data.Common.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Diagnostics.Contracts.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Diagnostics.Debug.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Diagnostics.Tools.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Diagnostics.Tracing.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Dynamic.Runtime.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Globalization.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Globalization.Calendars.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Globalization.Extensions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.IO.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.IO.Compression.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\ClrCompression.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.IO.FileSystem.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.IO.IsolatedStorage.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Linq.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Linq.Expressions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Linq.Parallel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Linq.Queryable.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Net.Http.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Net.Http.Rtc.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Net.NetworkInformation.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Net.Primitives.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Net.Requests.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Net.Sockets.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Numerics.Vectors.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.ObjectModel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Private.DataContractSerialization.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Private.Networking.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Private.ServiceModel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Private.Uri.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Reflection.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Reflection.Context.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Reflection.Emit.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Reflection.Extensions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Reflection.Metadata.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Reflection.Primitives.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Resources.ResourceManager.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Runtime.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Runtime.Extensions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Runtime.Handles.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Runtime.InteropServices.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Runtime.Numerics.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Security.Claims.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Security.Principal.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.ServiceModel.Duplex.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.ServiceModel.Http.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.ServiceModel.Primitives.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.ServiceModel.Security.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Text.Encoding.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Text.RegularExpressions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Threading.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Threading.Overlapped.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Threading.Tasks.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Threading.Timer.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Xml.ReaderWriter.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Xml.XDocument.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Xml.XmlDocument.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\bin\x86\Debug\System.Xml.XmlSerializer.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\App1.csprojResolveAssemblyReference.cache
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\App.g.i.cs
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\App.g.cs
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\MainPage.g.i.cs
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\MainPage.g.cs
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\XamlTypeInfo.g.cs
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\App.xaml
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\MainPage.xaml
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\App.xbf
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\MainPage.xbf
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\XamlSaveStateFile.xml
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\App1.exe
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\App1.pdb
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\ResourceHandlingTask.state
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Collections.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.IO.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Linq.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Threading.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\priconfig.xml
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\priconfig.xml.intermediate
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\layout.resfiles
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\layout.resfiles.intermediate
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\resources.resfiles
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\resources.resfiles.intermediate
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\pri.resfiles
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\pri.resfiles.intermediate
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\qualifiers.txt
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\qualifiers.txt.intermediate
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\ProjectArchitectures.txt
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\App1.exe
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\App1.pdb
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Microsoft.ApplicationInsights.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Microsoft.CSharp.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Core.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Net.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Numerics.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Runtime.Serialization.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.ServiceModel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.ServiceModel.Web.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Windows.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Xml.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Xml.Linq.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Xml.Serialization.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Microsoft.VisualBasic.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Microsoft.Win32.Primitives.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.AppContext.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Collections.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Collections.Concurrent.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Collections.Immutable.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Collections.NonGeneric.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Collections.Specialized.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.ComponentModel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.ComponentModel.Annotations.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Data.Common.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Diagnostics.Contracts.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Diagnostics.Debug.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Diagnostics.StackTrace.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Diagnostics.Tools.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Diagnostics.Tracing.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Dynamic.Runtime.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Globalization.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Globalization.Calendars.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Globalization.Extensions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.IO.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.IO.Compression.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\ClrCompression.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.IO.Compression.ZipFile.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.IO.FileSystem.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.IO.FileSystem.Primitives.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.IO.IsolatedStorage.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Linq.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Linq.Expressions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Linq.Parallel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Linq.Queryable.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Net.Http.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Net.Http.Rtc.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Net.NetworkInformation.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Net.Primitives.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Net.Requests.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Net.Sockets.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Net.WebHeaderCollection.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Numerics.Vectors.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.ObjectModel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Private.DataContractSerialization.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Private.Networking.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Private.ServiceModel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Private.Uri.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Reflection.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Reflection.Context.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Reflection.DispatchProxy.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Reflection.Emit.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Reflection.Extensions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Reflection.Metadata.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Reflection.Primitives.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Reflection.TypeExtensions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Resources.ResourceManager.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Runtime.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Runtime.Extensions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Runtime.Handles.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Runtime.InteropServices.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Runtime.Numerics.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Runtime.Serialization.Json.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Runtime.Serialization.Xml.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Runtime.WindowsRuntime.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Security.Claims.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Security.Principal.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.ServiceModel.Duplex.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.ServiceModel.Http.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.ServiceModel.NetTcp.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.ServiceModel.Primitives.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.ServiceModel.Security.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Text.Encoding.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Text.Encoding.CodePages.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Text.Encoding.Extensions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Text.RegularExpressions.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Threading.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Threading.Overlapped.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Threading.Tasks.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Threading.Tasks.Parallel.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Threading.Timer.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Xml.ReaderWriter.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Xml.XDocument.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Xml.XmlDocument.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\System.Xml.XmlSerializer.dll
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\ApplicationInsights.config
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Properties\Default.rd.xml
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Assets\SplashScreen.scale-200.png
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\App1.xr.xml
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\WinMetadata\Windows.winmd
+d:\users\donal\documents\visual studio 2015\Projects\App1\App1\obj\x86\Debug\Core\resources.pri
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\BLUE_MOON.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Bud-Light_Platinum.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\BudLight.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\coors.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\corona.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Dos Equis XX Lager.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Guinness extra.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\guinnness.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\heineken.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Leinenkugel Fruit Beer.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Miller.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Peroni.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\rolling_rock.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Samuel Adams Boston Lager.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Sapporo.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Shock Top Belgian White Beer.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Stella.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Beer\Tecate.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Can Images\Cidona Can.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Can Images\club_orange_can.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Can Images\CokeCan.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Can Images\Diet+Coke.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Can Images\Dr-pepper can.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Can Images\FANTACan.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Can Images\lucozade-original-can.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Can Images\Pepsi-can.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Can Images\ribena-can.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Can Images\sprite_can.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\beer.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\Can_Coke.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\cidona.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\Club Orange.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\cocktails.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\cokebottle.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\diet-coke.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\dr-pepper.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\fanta.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\Lucozade.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\pepsi.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\Ribena.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\SoftDrinks.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\sprite.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Images\wine.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Bacardi Rum.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Bulliet Bulliet.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Captain Morgan Parrot Bay.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Captain Morgan White Rum.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Captain Morgan.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Ciroc Coconut Vodka.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Ciroc Red Berry Vodka.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Cragganmore Whiskey.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Gordon's Vodka or Dry Gin.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Jack Daniels.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Johnnie Walker Black Label Whiskey.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Johnnie Walker Red Label.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Jose Cuervo Especial Silver Tequila.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Jose Cuervo Gold Tequila.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Malibu Rum Flavored with Fruit Essence.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Seagram Seagram's, 7 Crown Whiskey.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Smirnoff.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Spirits\Tanqueray Gin.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\bree_red.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Burgundy Red Wine.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Champagne.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Chardonnay.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Dry Vermouth Wine.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Marsala.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Merlot Red.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Pinot_Noir_Red.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Port.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\red_wine.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\riesling.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\sangria.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Sherry.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Shiraz.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Sutter Home Moscato.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Sweet Vermouth.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Takara Plum Wine.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\White, sparkling.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\white-wine.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Wines\Zinfandel_Red.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Spirits\Bacardi Rum.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Spirits\Bulliet Bulliet.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Spirits\Captain Morgan Parrot Bay.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Spirits\Captain Morgan White Rum.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Spirits\Captain Morgan.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Spirits\Ciroc Coconut Vodka.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Spirits\Ciroc Red Berry Vodka.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Spirits\Cragganmore Whiskey.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Spirits\Gordon's Vodka or Dry Gin.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Spirits\Jack Daniels.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Spirits\Johnnie Walker Black Label Whiskey.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Spirits\Johnnie Walker Red Label.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Spirits\Jose Cuervo Especial Silver Tequila.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Spirits\Jose Cuervo Gold Tequila.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Spirits\Malibu Rum Flavored with Fruit Essence.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Spirits\Seagram Seagram's, 7 Crown Whiskey.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Spirits\Smirnoff.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Spirits\Tanqueray Gin.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Wines\bree_red.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Wines\Burgundy Red Wine.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Wines\Champagne.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Wines\Chardonnay.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Wines\Dry Vermouth Wine.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Wines\Marsala.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Wines\Merlot Red.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Wines\Pinot_Noir_Red.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Wines\Port.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Wines\red_wine.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Wines\riesling.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Wines\sangria.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Wines\Sherry.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Wines\Shiraz.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Wines\Sutter Home Moscato.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Wines\Sweet Vermouth.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Wines\Takara Plum Wine.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Wines\White, sparkling.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Wines\white-wine.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Wines\Zinfandel_Red.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Beer\BLUE_MOON.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Beer\Bud-Light_Platinum.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Beer\BudLight.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Beer\coors.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Beer\corona.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Beer\Dos Equis XX Lager.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Beer\Guinness extra.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Beer\guinnness.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Beer\heineken.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Beer\Leinenkugel Fruit Beer.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Beer\Miller.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Beer\Peroni.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Beer\rolling_rock.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Beer\Samuel Adams Boston Lager.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Beer\Sapporo.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Beer\Shock Top Belgian White Beer.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Beer\Stella.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Beer\Tecate.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Can Images\Cidona Can.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Can Images\club_orange_can.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Can Images\CokeCan.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Can Images\Diet+Coke.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Can Images\Dr-pepper can.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Can Images\FANTACan.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Can Images\lucozade-original-can.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Can Images\Pepsi-can.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Can Images\ribena-can.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Can Images\sprite_can.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Images\beer.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Images\Can_Coke.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Images\cidona.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Images\Club Orange.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Images\cocktails.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Images\cokebottle.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Images\diet-coke.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Images\dr-pepper.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Images\fanta.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Images\Lucozade.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Images\pepsi.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Images\Ribena.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Images\SoftDrinks.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Images\sprite.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Images\wine.jpg
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\300x300.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\badgelogo96x96.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\SplashScreen1240x600.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\SplashScreen310.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\SplashScreen620x300.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\SplashScreenresize.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\Storelogo.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogo150.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogo200.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\Storelogo200x200.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogo284.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogo300.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\Storelogo50x50.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogo600.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogoSquare1240.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogoSquare176.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogoSquare310.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogoSquare44.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogoSquare620.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Visual Assets\StoreLogoSquare88.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Visual Assets\300x300.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Visual Assets\badgelogo96x96.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Visual Assets\SplashScreen1240x600.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Visual Assets\SplashScreen310.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Visual Assets\SplashScreen620x300.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Visual Assets\SplashScreenresize.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Visual Assets\Storelogo.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Visual Assets\StoreLogo150.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Visual Assets\StoreLogo200.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Visual Assets\Storelogo200x200.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Visual Assets\StoreLogo284.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Visual Assets\StoreLogo300.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Visual Assets\Storelogo50x50.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Visual Assets\StoreLogo600.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Visual Assets\StoreLogoSquare1240.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Visual Assets\StoreLogoSquare176.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Visual Assets\StoreLogoSquare310.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Visual Assets\StoreLogoSquare44.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Visual Assets\StoreLogoSquare620.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Visual Assets\StoreLogoSquare88.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Assets\StoreLogo.scale-100.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\300x300.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\BadgeLogo.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\LockScreenLogo.scale-200.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\SplashScreen.scale-200.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square150x150Logo.scale-100.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square150x150Logo.scale-200.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square150x150Logo.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square310x310Logo.scale-100.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square310x310Logo.scale-200.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square310x310Logo.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square44x44Logo.scale-100.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square44x44Logo.scale-200.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square44x44Logo.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Square71x71Logo.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\StoreLogo.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\StoreLogo.scale-100.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\StoreLogo.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\StoreLogo200x200.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\StoreLogo50x50.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\StoreLogo50x50.scale-100.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\StoreLogo50x50.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Wide310x150Logo.scale-100.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Wide310x150Logo.scale-200.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\bin\x86\Debug\Core\Vis Assets\Wide310x150Logo.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Assets\Square44x44Logo.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Assets\StoreLogo.scale-100.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\300x300.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\BadgeLogo.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\LockScreenLogo.scale-200.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\SplashScreen.scale-200.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\Square150x150Logo.scale-100.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\Square150x150Logo.scale-200.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\Square150x150Logo.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\Square310x310Logo.scale-100.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\Square310x310Logo.scale-200.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\Square310x310Logo.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\Square44x44Logo.scale-100.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\Square44x44Logo.scale-200.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\Square44x44Logo.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\Square71x71Logo.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\StoreLogo.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\StoreLogo.scale-100.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\StoreLogo.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\StoreLogo200x200.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\StoreLogo50x50.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\StoreLogo50x50.scale-100.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\StoreLogo50x50.scale-400.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\Wide310x150Logo.scale-100.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\Wide310x150Logo.scale-200.png
+D:\Users\Donal\Documents\Visual Studio 2015\Projects\App1\App1\obj\x86\Debug\Core\Vis Assets\Wide310x150Logo.scale-400.png
